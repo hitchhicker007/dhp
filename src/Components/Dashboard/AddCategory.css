@@ -1,0 +1,25 @@
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.model-add-category {
+    color: white;
+}
+
+.ExpenseImage {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.CategoryImage {
+    height: 50px;
+    width: 50px;
+    border-radius: 80%;
+}
+
+.addExpensediv {
+    color: white;
+}

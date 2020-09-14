@@ -1,0 +1,14 @@
+.breadcrumb-width {
+    width: auto;
+}
+
+#lblcategory {
+    padding-left: 15px;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+a span {
+    padding-left: 10px;
+    font-size: 20px;
+}
